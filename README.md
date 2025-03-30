@@ -1,4 +1,4 @@
-<h2 align="center">Tecnologias que utilizo:</h2>
+<p align="center">Tecnologias que utilizo:</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c3986bd3-16a6-4432-b2b4-4288b99845d5" style="width: 50px"></img>
   <img src="https://github.com/user-attachments/assets/1459228d-415d-4e3d-bf5b-d322e40c5a44" style="width: 50px"></img>
