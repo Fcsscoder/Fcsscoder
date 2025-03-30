@@ -1,4 +1,4 @@
-
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9d54264d-d050-4dea-b689-5293c834f070" style="width: 40px"></img>
   <img src="https://github.com/user-attachments/assets/90182b78-2760-4785-91c3-682036ad2eb2" style="width: 40px"></img>
   <img src="https://github.com/user-attachments/assets/c3986bd3-16a6-4432-b2b4-4288b99845d5" style="width: 40px"></img>
@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/295b1415-7872-45c4-816f-eaf0c502b666" style="width: 40px"></img>
   <img src="https://github.com/user-attachments/assets/db43d2fc-ecf4-4b71-9cd9-32407ce7475a" style="width: 40px"></img>
   <img src="https://github.com/user-attachments/assets/5df41892-3517-4c4f-88b9-ca933d0d7ee8" style="width: 40px"></img>
-  
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 80px"></img>
+</p>
+
 
 
