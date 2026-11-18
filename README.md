@@ -110,4 +110,4 @@ Explore production engineering case studies in [**`Fcsscoder/case-studies`**](ht
 ## Connect
 
 - GitHub: [@Fcsscoder](https://github.com/Fcsscoder)
-- Contact: Reach out through my GitHub profile
+- Email: [caiotosousa43@gmail.com](mailto:caiotosousa43@gmail.com)
