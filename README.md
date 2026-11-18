@@ -8,21 +8,28 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white" alt="Maestro" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-I am a Computer Engineering student and Software Engineer focused on backend architecture, distributed systems, data privacy engineering, and full-stack web platforms.
+I am a Computer Engineering student and Software Engineer focused on backend architecture, distributed systems, mobile development, data engineering, and AI-assisted software delivery.
 
-My background centers on understanding how complex software behaves under the hood. I enjoy analyzing systems, finding architectural bottlenecks, and building software that balances reliability, performance, maintainability, and security. For me, engineering is about understanding the core problem before writing the first line of code.
+My engineering practice centers on understanding how complex systems behave under the hood. I work systematically with modern AI engineering workflows, utilizing tools such as Claude, Codex, and Antigravity within Spec-Driven Development (SDD) environments. I design custom Model Context Protocol (MCP) servers and Retrieval-Augmented Generation (RAG) architectures to keep AI-generated code strictly aligned with system contracts, verifiable specs, and regression test suites.
 
 ---
 
 ## Engineering Philosophy
 
 - **Clear boundaries:** Decouple domain rules from infrastructure and presentation layers so systems remain modular, testable, and resilient to change.
+- **Spec-driven rigor:** Define verifiable specifications, schemas, and interface contracts before implementation, steering automated tooling and coding agents with precision.
 - **Evidence-based decisions:** Ground architectural choices in profiling, automated testing, and observable system metrics rather than assumptions.
 - **Privacy and security by design:** Treat data protection, access controls, and log sanitization as core architectural requirements from the start.
 - **Reliability and observability:** Build predictable error recovery into services and instrument clear trace context so operational issues are straightforward to diagnose.
@@ -32,9 +39,10 @@ My background centers on understanding how complex software behaves under the ho
 ## Core Focus Areas
 
 - **Distributed Systems and Microservices:** Building asynchronous data ingestion pipelines, managing inter-service communication, and standardizing distributed tracing across service boundaries.
+- **Mobile and Client Engineering:** Developing cross-platform mobile applications with React Native and Expo, building offline-first architectures, and automating mobile end-to-end testing with Maestro.
+- **Data Engineering and Analysis:** Building streaming ingestion pipelines, structuring tabular analyses with Pandas and NumPy, exploratory data science with Jupyter, and data visualization with Matplotlib.
+- **AI Systems and Agentic Engineering:** Structuring Spec-Driven Development (SDD) workflows, implementing Model Context Protocol (MCP) servers, and building RAG pipelines to accelerate software delivery with Claude, Codex, and Antigravity.
 - **Data Privacy and Healthcare Informatics:** Protecting sensitive user records, implementing regulatory requirements like LGPD, and engineering streaming data pipelines for large municipal datasets.
-- **Full-Stack and Monorepo Architectures:** Applying patterns like Hexagonal Architecture to isolate core business rules, structuring TypeScript monorepos, and building decoupled client-side state engines.
-- **Mobile and Client Engineering:** Developing cross-platform applications with React Native, focusing on offline-first caching, accessibility, and strict privacy consent gates.
 
 ---
 
@@ -87,10 +95,11 @@ Detailed architectural studies categorized across engineering tracks in the [**`
 | **Languages and Runtimes** | TypeScript, JavaScript, Python 3, C++ (Embedded/Arduino), SQL |
 | **Backend and Microservices** | Node.js, Express.js, Flask, Prisma ORM, Hexagonal Architecture, Zod, RESTful APIs |
 | **Frontend and Mobile** | React, React Native, Expo, Next.js (App Router), Tailwind CSS, NativeWind, TanStack Query |
-| **Data and Storage** | PostgreSQL, MongoDB, SQLite, Turso (libSQL), MinIO (S3-compatible), Caching |
+| **Data and Analytics** | Pandas, NumPy, Matplotlib, Jupyter, PostgreSQL, MongoDB, SQLite, Turso (libSQL), MinIO |
+| **AI and Agentic Engineering** | Spec-Driven Development (SDD), Model Context Protocol (MCP), RAG, Claude, Codex, Antigravity |
+| **Testing and QA** | Maestro (Mobile E2E), Playwright, Jest, Vitest, Pytest, Mutation Testing |
+| **DevOps and Security** | Docker, Docker Compose, Nginx, GitHub Actions, GHCR, Linux VPS, Cosign, Trivy, Git |
 | **Messaging and Telemetry** | MQTT (Mosquitto), Socket.IO (WebSockets), Server-Sent Events (SSE), Pino |
-| **DevOps and Infrastructure** | Docker, Docker Compose, Nginx, GitHub Actions, GHCR, Linux VPS, Git |
-| **Testing and Security** | Playwright, Jest, Vitest, Pytest, Mutation Testing, Cosign, Trivy |
 
 ---
 
